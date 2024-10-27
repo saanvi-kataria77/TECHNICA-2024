@@ -168,9 +168,4 @@
 @font-face {
     font-family: "Digital Numbers";
     src: url("/DigitalNumbers-Regular.ttf");
-
-}
-
-#startedbtn:hover {
-    transform: scale(1.2);
 }
